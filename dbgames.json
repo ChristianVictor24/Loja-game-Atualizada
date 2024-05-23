@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo 1",
+      "descricao": "Descrição do jogo 1",
+      "foto": "jogo1.PNG",
+      "preco": 300
+    },
+    {
+      "id": 2,
+      "produto": "Jogo Mario",
+      "descricao": "Melhor Jogo de Nintendo da Atualidade",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Jogo 3",
+      "descricao": "Descrição do jogo 3",
+      "foto": "jogo3.PNG",
+      "preco": 400
+    },
+    {
+      "id": "4",
+      "produto": "Jogo de FPS",
+      "descricao": "Melhor Jogo de FPS do mercado",
+      "foto": "jogo4.PNG",
+      "preco": "250"
+    },
+    {
+      "id": "5",
+      "produto": "Jogo de MMORPG",
+      "descricao": "Melhor Jogo de MMORPG do Mercado",
+      "foto": "jogo5.PNG",
+      "preco": 150
+    }
+  ]
+}
